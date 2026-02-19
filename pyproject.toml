@@ -1,6 +1,6 @@
 [project]
 name = "icarus-python3"
-description = "Add project description"
+description = "IcarusPython3 is the Python3 build system for first-party Python packages in Icarus Builder"
 readme = "README.md"
 license = "MIT"
 authors = [
@@ -9,17 +9,14 @@ authors = [
 requires-python = ">= 3.9"
 dynamic = ["version"]
 dependencies = [
-    # My Library
-    "carlogtt-python-library",
-
-    # Runtime dependencies
-    "python-dotenv",
-
-    # Type checking depencencies
+    "setuptools",
+    "build",
+    "twine",
+    "wheel",
 ]
 
 [project.urls]
-Homepage = "https://github.com/64rl0"
+Homepage = "https://github.com/64rl0/IcarusPython3"
 
 [project.optional-dependencies]
 # development = []

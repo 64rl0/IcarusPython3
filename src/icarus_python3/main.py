@@ -33,12 +33,3 @@ This module ...
 # END IMPORTS
 # ======================================================================
 
-
-# List of public names in the module
-# __all__ = []
-
-# Setting up logger for current module
-# module_logger =
-
-# Type aliases
-#
