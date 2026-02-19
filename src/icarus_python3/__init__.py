@@ -13,7 +13,8 @@
 # Created 7/19/23 - 10:24 AM UK Time (London) by carlogtt
 
 """
-This module ...
+IcarusPython3 is the Python3 build system for first-party Python
+packages in Icarus Builder.
 """
 
 # ======================================================================
