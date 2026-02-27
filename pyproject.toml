@@ -1,6 +1,6 @@
 [project]
 name = "icarus-python3"
-description = "icarus-python3 is the Python3 build-system for first-party Python packages in Icarus Builder"
+description = "icarus-python3 is the Python3 build-system for first-party Python packages in Icarus Builder."
 readme = "README.md"
 license = "MIT"
 authors = [
